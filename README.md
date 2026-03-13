@@ -195,18 +195,6 @@ probabilities = model.predict_proba(X_new)[:, 1]
 
 ---
 
-## 👤 Author
-
-**Developed at Queen's University**
-Feel free to open an issue or submit a pull request if you'd like to contribute or suggest improvements.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Acknowledgements
 
